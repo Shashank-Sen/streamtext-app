@@ -56,5 +56,6 @@ State Handling	Streamlit Session State
 Deployment	Streamlit Cloud / Local
 
 ---
-<img width="1920" height="1080" alt="StreamText" src="https://github.com/user-attachments/assets/b6aa9a9e-f6bb-4fae-a8ce-770f5aef1f8d" />
+![Alt Text](StreamText.png)
+
 
